@@ -316,3 +316,5 @@ export {
     defaultRules,
     createComparison
 };
+    createComparison
+};
