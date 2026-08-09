@@ -112,3 +112,6 @@ export function getPages(currentPage, maxPage, limit) {
 
     return pages;
 }
+
+    return pages;
+}
